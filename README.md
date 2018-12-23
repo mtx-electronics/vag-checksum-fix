@@ -1,2 +1,2 @@
 # vag-checksum-fix
-Calcolo del checksum su vetture VAG EDC15
+Software per la correzzione del checksum su centraline EDC15 montate nelle autovetture Audi, Seat, Skoda e Volkswagen.
